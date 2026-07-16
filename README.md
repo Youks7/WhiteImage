@@ -2,7 +2,7 @@
 
 > 给原图文件夹 → 确认一张样图 → AI 逐张精修、检查并输出 PNG
 >
-> 作者：[秋水Kero](https://x.com/Isonlyonenice)
+> 作者：[秋水Kero](https://x.com/Isonlyonenice) |
 
 ---
 
