@@ -1,6 +1,6 @@
-# 🕶️ WhiteImage：不会修图，也能批量做干净的墨镜白底图
+# 🕶️ WhiteImage：不会PS修图，也能批量做干净的墨镜白底图
 
-> 一个 Codex Skill 跑完整批流程：给原图文件夹 → 确认一张样图 → AI 逐张精修、检查并输出 PNG
+> 给原图文件夹 → 确认一张样图 → AI 逐张精修、检查并输出 PNG
 >
 > 作者：[秋水Kero](https://x.com/Isonlyonenice)
 
