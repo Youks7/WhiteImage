@@ -24,7 +24,7 @@
 
 ```text
 请使用 $skill-installer，从公开 GitHub 仓库
-https://github.com/Youks7/KeRo-Sunglasses-White-Background-Skill
+https://github.com/Youks7/WhiteImage
 的 main 分支安装：
 skills/refine-sunglasses-white-background
 
